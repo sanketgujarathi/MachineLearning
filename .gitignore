@@ -1,0 +1,8 @@
+# generated files
+target/
+
+# Intellij files
+*.iml
+.idea
+
+.ipynb_checkpoints
